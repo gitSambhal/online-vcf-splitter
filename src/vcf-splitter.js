@@ -118,12 +118,12 @@ const VCFSplitter = () => {
           combined in a ZIP file.
         </p>
         <p>
-          Built using <a href="https://chat.openai.com/">ChatGPT 🚀</a>,{' '}
-          <a href="https://stackblitz.com/">Stackblitz ⚡️</a> and React
+          Built using <a target="_blank" href="https://chat.openai.com/">ChatGPT 🚀</a>,{' '}
+          <a target="_blank" href="https://stackblitz.com/">Stackblitz ⚡️</a> and React
         </p>
         <p>
           Created by{' '}
-          <a href="https://www.linkedin.com/in/im-suhail-akhtar/">
+          <a target="_blank" href="https://www.linkedin.com/in/im-suhail-akhtar/">
             Suhail Akhtar
           </a>
         </p>
